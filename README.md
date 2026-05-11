@@ -1,8 +1,15 @@
-## BEM VINDOS AO MEU PERFIL ⚡
-**DiogoMnz/DiogoMnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou o Diogo Menezes Lara 👋
 
--  EU ESTOU ESTUDANDO NA ALURA
--  ESTOU ME DESENVOLVENDO NA LINGUAGEM JavaScript
-- 💬 UTILIZO ESSE ESPAÇO PARA MINHA ORGANIZAÇÃO E COMPARTILHAMENTO DOS MEUS PROJETOS DESENVOLVIDOS
+Sou um desenvolvedor em formação focado em **Desenvolvimento Back-end e Infraestrutura**. Atualmente, curso Análise e Desenvolvimento de Sistemas na **Fatec Taquaritinga**.
 
-- 📫 VOCE PODE ENTRAR EM CONTATO COMIGO ATRAVÉS DO MEU EMAIL: Diogomenezes170107@gmail.com
+### 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Java, Python, JavaScript, C e SQL.
+- **Frameworks:** Spring Boot (Java) e APIs REST.
+- **Bancos de Dados:** SQL Server.
+- **Sistemas:** Linux e Windows.
+
+### 📚 Estudos Atuais
+- Cursando o 2º ano de ADS.
+
+### 📫 Como me encontrar
+- 📧 Email: diogomenezes170107@gmail.com
