@@ -1,5 +1,5 @@
 body {
-    background-color: #141414; /* Preto estilo streaming */
+    background-color: #141414;
     color: white;
     font-family: Arial, sans-serif;
     margin: 0;
@@ -10,7 +10,7 @@ body {
 
 header {
     padding: 20px;
-    color: #E50914; /* Vermelho padrão */
+    color: #E50914; 
 }
 
 .video-principal {
