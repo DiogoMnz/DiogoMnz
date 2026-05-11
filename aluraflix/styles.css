@@ -1,4 +1,31 @@
-body {color : red;
-    background : black;
+body {
+    background-color: #141414; /* Preto estilo streaming */
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
+header {
+    padding: 20px;
+    color: #E50914; /* Vermelho padrão */
+}
+
+.video-principal {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+}
+
+.video-container {
+    margin-top: 20px;
+    border: 2px solid #E50914;
+}
+
+h2 {
+    max-width: 600px;
 }
